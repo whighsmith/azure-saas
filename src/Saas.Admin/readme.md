@@ -17,7 +17,7 @@ Within this folder you will find two subfolders:
 
 The service depends on:
 
-- The **Identity Foundation** that was deployed a spart of the Identity Foundation and on the [Microsoft Graph API](https://learn.microsoft.com/en-us/graph/use-the-api).
+- The **Identity Foundation** that was deployed as part of the Identity Foundation and on the [Microsoft Graph API](https://learn.microsoft.com/en-us/graph/use-the-api).
 - The **[SaaS Permissions Services API](./../Saas.Identity/Saas.Permissions/readme.md)**.
 - The [Microsoft Graph API](https://learn.microsoft.com/en-us/graph/overview). 
 
